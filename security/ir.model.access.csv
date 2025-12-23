@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_igt_excel_import,access_igt_excel_import,model_igt_excel_import,base.group_system,1,1,1,1
+access_igt_excel_import_user,access_igt_excel_import_user,model_igt_excel_import,base.group_user,1,0,0,0
+access_igt_excel_import_line,access_igt_excel_import_line,model_igt_excel_import_line,base.group_system,1,1,1,1
+access_igt_excel_import_line_user,access_igt_excel_import_line_user,model_igt_excel_import_line,base.group_user,1,0,0,0
+access_igt_excel_import_wizard,access_igt_excel_import_wizard,model_igt_excel_import_wizard,base.group_user,1,1,1,1

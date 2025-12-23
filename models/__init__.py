@@ -1,0 +1,1 @@
+from . import igt_excel_import_config
