@@ -4,10 +4,7 @@
     'category': 'Tools',
     'summary': 'Import lines from Excel into models (wizard + configs)',
     'description': """
-      <p>This module allows importing Excel files into Odoo.</p>
-      <ul>
-      <li>Import line items from Excel</li> 
-      </ul>
+      This module allows importing line items through Excel files.
      """,
     'author': 'IGT',
     'depends': ['base'],
