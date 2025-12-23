@@ -6,7 +6,7 @@
     'description': """
       This module allows importing line items through Excel files.
      """,
-    'author': 'IGT',
+    'author': 'Grace',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
